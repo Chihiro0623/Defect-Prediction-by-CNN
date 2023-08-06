@@ -4,12 +4,12 @@ Labeled using https://github.com/springkim/TSpring
 Image Mask using https://www.gimp.org/
 
 ## Usage
-data : original images
-label : tsp label data
-mask : image masks
+data : original images  
+label : tsp label data  
+mask : image masks  
 
-==> output : poisson'ed image
-==> labeloutput : merged label
+==> output : poisson'ed image  
+==> labeloutput : merged label  
 
 ## Example
 After / Before
