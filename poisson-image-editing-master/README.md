@@ -1,4 +1,4 @@
-# Poission Image 증강
+# Poission Image Augmentation
 Implemented from https://github.com/willemmanuel/poisson-image-editing  
 Labeled using https://github.com/springkim/TSpring  
 Image Mask using https://www.gimp.org/
