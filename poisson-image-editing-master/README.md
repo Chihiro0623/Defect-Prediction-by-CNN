@@ -5,7 +5,7 @@ Image Mask using https://www.gimp.org/
 Image Extract using https://pydicom.github.io/
 
 ## Usage
-[convert pydicom to png file](https://github.com/Chihiro0623/Defect-Prediction-by-CNN/tree/main/poisson-image-editing-master/pydicom)  
+[convert dicom to png file](https://github.com/Chihiro0623/Defect-Prediction-by-CNN/tree/main/poisson-image-editing-master/pydicom)  
 data : original images  
 label : tsp label data  
 mask : image masks  
